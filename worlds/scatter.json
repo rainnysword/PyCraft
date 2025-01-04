@@ -1,0 +1,9 @@
+{
+    "(0.0, 0.0, 0.0)": "Grass_Block.png",
+    "(2.0, 0.0, 2.0)": "Wood_Block.png",
+    "(4.0, 0.0, 4.0)": "Brick_Block.png",
+    "(6.0, 0.0, 6.0)": "Stone_Block.png",
+    "(8.0, 0.0, 8.0)": "Brick_Block.png",
+    "(10.0, 0.0, 10.0)": "Dirt_Block.png",
+    "(12.0, 0.0, 12.0)": "Gravel_Block.png"
+}
