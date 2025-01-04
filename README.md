@@ -12,10 +12,10 @@ Minecraft made in Python but this time it has multiplayer. Built from the code s
 - Move mouse to turn camera
 
 **World templates**
-- [Church](https://github.com/rainnysword/PyCraft/worlds/church.json)
-- [Hard to break block](https://github.com/rainnysword/PyCraft/worlds/hardtobreakblock.json)
-- [One Block](https://github.com/rainnysword/PyCraft/worlds/oneblock.json)
-- [Scatter](https://github.com/rainnysword/PyCraft/worlds/scatter.json)
+- [Church](https://github.com/rainnysword/PyCraft/blob/main/worlds/church.json)
+- [Hard to break block](https://github.com/rainnysword/PyCraft/blob/main/worlds/hardtobreakblock.json)
+- [One Block](https://github.com/rainnysword/PyCraft/blob/main/worlds/oneblock.json)
+- [Scatter](https://github.com/rainnysword/PyCraft/blob/main/worlds/scatter.json)
 
 **Installation**
 
